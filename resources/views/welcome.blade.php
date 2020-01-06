@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    1905_week2
+                    zly2.hcws.vip_week2
                 </div>
 
                 <div class="links">
